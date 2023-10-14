@@ -1,0 +1,355 @@
+body{
+	background-image: url("../img/fondo.png");
+}
+body h2{
+	 font-family: 'Sweet Apricot', sans-serif;     
+	 font-size: 50px;                                      
+}
+body p{
+	font-size: 20px;
+	font-family: 'BodoniFLF', sans-serif;
+}
+#what{
+	width: 35px;
+	height: 35px;
+	margin: -10px 2px;
+}
+
+.navbar{
+	display: flex;
+	border-color: #FFFFFF;
+    border-top-style: solid;
+    border-block-style: solid;
+	background: #FBD0FC;
+	margin-top: 18px;
+	padding: 0px 0px 15px 0px;
+	height: 50px;
+}
+.navbar p{
+	font-family: 'Howell Rode', sans-serif;
+	font-size: 350%;
+	margin: 0px;
+}
+.navbar img{
+	border-radius: 60px;
+	width: 120px;
+	height: 120px;
+    margin: -20px 15px;
+}.navbar i{
+	margin: 10px 8px 0px 730px;
+	color: black;
+	font-size: 40px;
+}
+.anuncio1{
+	display: flex;
+	text-align: center;
+	border-bottom: solid;
+	padding: 20px 30px 50px 30px;
+}
+.muestra{
+	display: flex;
+}
+#croche{
+	width: 350px;
+}
+.muestra img{
+	width: 300px;
+}
+#img2{
+	height: 472px;
+    width: 280px;
+}
+.div1er{
+	display: flex;
+	text-align: center;
+}
+.anuncio2{
+	border-bottom: solid;
+	display: block;
+}
+.muestra2 h2{
+	margin: 10px;
+}
+.muestra2 img{
+	width: 100%;
+	height: 80%;
+}
+.holistica{
+	display: flex;
+	padding: 10px 0px 10px 120px;
+}
+.holistica img{
+	width: 30%;
+	height: 30%;
+}
+.text2 {
+	padding: 100px 30px 30px 80px;
+    width: 2000px;
+}
+.text3{
+	text-align: center;
+}
+.text4{
+	display: flex;
+    padding: 0px 110px 0px 150px;
+}
+.muestras3{
+	display:flex;
+	padding: 0px 0px 0px 150px;
+}
+.muestras3 img{
+	width: 30%;
+	height: 30%;
+}
+.text4 p{
+     padding: 0px 0px 0px 20px;
+     width: 650px;
+}
+#contacto{
+	text-align: center;
+}
+
+/*-----------------------*/
+.anuncio21{
+	display: flex;
+	border-bottom: solid;
+	padding: 0px 0px 50px 50px;
+}
+.anuncio21 img{
+	width: 350px;
+	height: 450px;
+	margin: 20px 100px 0px 0px
+}
+.text21 h2{
+	font-size: 80px;
+	padding: 0px 0px 0px 200px;
+    	margin: 40px;
+}
+.text21 p{
+	font-size: 18px;
+	text-align: center;
+	padding: 0px 100px 0px 100px;
+}
+.anuncio22{
+	border-bottom: solid;
+	padding: 0px 0px 50px 00px;
+}
+.text22{
+	display: flex;
+	margin: 30px 90px 30px 80px;
+}
+.text22 h2{
+	font-size: 80px;
+	padding: 0px 0px 0px 170px;
+     margin: 0px;
+}
+.text22 p{
+	font-size: 18px;
+	text-align: center;
+	margin: 10px 50px 20px 10px;
+}
+.text22 img{
+	width: 450px;
+	height: 250;
+}
+#panel1 ,#panel2{
+	display: flex;
+}
+#panel1 img{
+	width: 430px;
+    height: 200px;
+}
+#panel2 img{
+	width: 400px;
+    height: 200px;
+}
+.anuncio23{
+	border-bottom: solid;
+	padding: 0px 80px 50px 80px;
+}
+.anuncio23 div{
+	display: flex;
+}
+.anuncio23 h2{
+	font-size: 60px;
+     margin: 0px;
+}
+.anuncio23 p{
+	margin: 20px 150px 0px 20px;
+	font-size: 18px;
+}
+.anuncio23 img{
+	width: 350px;
+}
+
+/*---------------------*/
+
+.anuncio31{
+	padding: 30px 50px 20px 40px;
+	border-bottom: solid;
+}
+.anuncio31 h2{
+	font-size: 60px;
+     margin: 0px;
+     padding:0px 0px 0px 200px;
+}
+.anuncio31 p{
+	font-size: 18px;
+	text-align: center;
+}
+#panelauto1,#panelauto2,#text31{
+	display: flex;
+}
+#text31 img{
+	width:500px ;
+}
+#panelauto1 img,#panelauto2 img{
+	width: 400px;
+	height: 300px;
+}
+.anuncio32{
+	display: flex;
+	padding: 30px 50px 20px 40px;
+	border-bottom: solid;
+}
+.anuncio32 h2{
+	font-size: 60px;
+    margin: 0px;
+    padding:0px 0px 0px 100px;
+}
+.anuncio32 p{
+	font-size: 18px;
+	text-align: center;
+}
+#calsado{
+	width: 450px;
+	padding: 0px 0px 0px 80px;
+}
+#muestra32 img{
+	width: 600px;
+}
+.anuncio33{
+	padding: 30px 50px 40px 70px;
+	border-bottom: solid;
+}
+.anuncio33 h2{
+	font-size: 60px;
+    margin: 0px;
+    padding:0px 0px 0px 200px;
+}
+.anuncio33 p{
+	font-size: 18px;
+	text-align: center;
+}
+#text33,#muestra33{
+	display: flex;
+}
+#tenis{
+	width: 350px;
+	padding: 0px 0px 0px 80px;
+}
+#muestra33 img{
+	width: 390px;
+}
+.anuncio34{
+	display: flex;
+	padding: 30px 50px 40px 70px;
+	border-bottom: solid;
+}
+.anuncio34 h2{
+	font-size: 60px;
+    margin: 0px;
+    padding:0px 0px 0px 180px;
+}
+.anuncio34 p{
+	font-size: 18px;
+	text-align: center;
+}
+#text34 div{
+	display: flex;
+}
+#esika{
+	width: 250px;
+	height: 360px;
+	padding: 0px 0px 0px 50px;
+}
+#muestra34 img{
+	width: 500px;
+	height: 570px;
+}
+/*--------pagina----------*/
+.pagina{
+	display: flex;
+	font-size: 40px;
+	padding: 10px 10px 10px 480px;
+}
+.pagina i{
+	color: grey;
+	padding: 0px 15px;
+}
+.pagina a{
+	color: grey;
+	padding: 0px 20px;
+}
+footer{
+	text-align: center;
+	border-color: #FFFFFF;
+    border-top-style: solid;
+    border-block-style: solid;
+	background: #FBD0FC;
+}
+footer div{
+	display: flex;
+	margin: 20px 460px 0px 460px;
+}
+footer img{
+	width: 35px;
+	height: 35px
+}
+footer p{
+	margin: 1px 5px;
+}
+
+/*--------------------------------*/
+@media only screen and (min-width:320px) and (max-width:480px){
+
+main{
+	width: 400%;
+}	
+
+.navbar{
+	width: 420%;
+}
+footer{
+	width: 420%;
+}
+
+}
+@media only screen and (min-width:768px) and (max-width:960px){
+
+main{
+	width: 370%;
+    margin: 0px 65px
+}
+.navbar{
+	width: 500%;
+}
+footer{
+	width: 500%;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

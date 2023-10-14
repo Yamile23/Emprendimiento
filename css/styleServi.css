@@ -1,0 +1,261 @@
+body{
+	background-image: url("../img/fondo.png");
+}
+body h2{
+	 font-family: 'Sweet Apricot', sans-serif;                                           
+}
+body p{
+	font-size: 18px;
+	font-family: 'BodoniFLF', sans-serif;
+}
+#what{
+	width: 35px;
+	height: 35px;
+	margin: -10px 2px;
+}
+
+.navbar{
+	display: flex;
+	border-color: #FFFFFF;
+    border-top-style: solid;
+    border-block-style: solid;
+	background: #FBD0FC;
+	margin-top: 18px;
+	padding: 0px 0px 15px 0px;
+	height: 50px;
+}
+.navbar p{
+	font-family: 'Howell Rode', sans-serif;
+	font-size: 350%;
+	margin: 0px;
+}
+.navbar img{
+	border-radius: 60px;
+	width: 120px;
+	height: 120px;
+    margin: -20px 15px;
+}.navbar i{
+	margin: 10px 0px 0px 730px;
+	color: black;
+	font-size: 40px;
+}
+.anuncio1{
+	padding: 10px 100px 30px 100px;
+	border-bottom: solid;
+}
+#panel1 , #muestra1{
+	display: flex;
+}
+#even1{
+	width: 250px;
+	height: 300px;
+}
+#muestra1 img{
+	width: 350px;
+	height: 350px;
+}
+#muestra1{
+	margin: 0px 150px 0px 150px;
+}
+.anuncio2{
+	padding: 30px 100px 30px 100px;
+	border-bottom: solid;
+}
+.anuncio2 div{
+	display: flex;
+}
+.anuncio2 div p{
+	padding: 80px;
+}
+.anuncio2 img{
+	width: 450px;
+	margin: 20px;
+}
+.anuncio3{
+	padding: 20px 100px 30px 100px;
+    border-bottom: solid;
+}
+.anuncio3 h2{
+	font-size: 50px;
+	margin: 0px 30px;
+}
+.anuncio3 div img{
+	width: 250px;
+	height: 250px;
+}
+#text3, #muestra3v1,#muestra3v1{
+	display: flex;
+}
+#text3 p{
+	padding: 130px 50px 100px 50px;
+}
+#muestra3v1 p {
+	width: 300px;
+    padding: 0px 0px 0px 20px;
+}
+#muestra3v2 img {
+	padding: 20px 0px 0px 280px;
+
+}
+.anuncio21{
+	padding: 10px;
+	border-bottom: solid;
+	padding: 30px 80px 10px 80px;
+}
+#contacto21{
+	text-align: center;
+	padding: 10px 350px 0px 350px;
+}
+#text21{
+	display: flex;
+	text-align: center;
+}
+
+#text21 img{
+	width: 400px;
+	height:400px;
+}
+.anuncio22{
+	border-bottom: solid;
+	padding: 20px 20px 30px 20px;
+}
+#text22{
+	text-align: center;
+	display: flex;
+	padding: 10px 80px 10px 80px;;
+}
+#dona1{
+	width: 400px;
+	padding: 0px 70px 0px 50px;
+}
+#muestra22{
+	padding: 0px 80px 10px 80px;
+	display: flex;
+}
+#muestra22 img{
+	height: 350px;
+}
+.anuncio23{
+	display: flex;
+	border-bottom: solid;
+	text-align: center;
+	padding: 30px 80px 30px 80px;
+}
+#texto23{
+	display: flex;
+}
+#brownies {
+	width:300px;
+	margin: 0px 10px 0px 0px;
+}
+#muestra23 img{
+	width: 350px;
+	height: 630px;
+}
+.anuncio24{
+	border-bottom: solid;
+	padding: 30px 80px 30px 80px;
+	text-align: center;
+}
+#texto24 ,#muestra24 {
+	display: flex;
+}
+#alfafor{
+	width: 300px;
+}
+#muestra24 img{
+	width: 380px;
+	height: 350px;
+}
+.anuncio25{
+	border-bottom: solid;
+	padding: 30px 80px 30px 80px;
+	text-align: center;
+}
+#texto25 ,#muestra25 {
+	display: flex;
+}
+#salteña{
+	width: 300px;
+}
+#muestra25 img{
+	width: 540px;
+	height: 300px;
+	margin: 20px 20px 0px 10px;
+}
+
+
+
+
+
+
+/*--------pagina----------*/
+.pagina{
+	display: flex;
+	font-size: 40px;
+	font-family: 'BodoniFLF', sans-serif;
+	padding: 10px 10px 10px 480px;
+}
+.pagina i{
+	color: grey;
+	padding: 0px 15px;
+}
+.pagina a{
+	color: grey;
+	padding: 0px 20px;
+}
+footer{
+	text-align: center;
+	border-color: #FFFFFF;
+    border-top-style: solid;
+    border-block-style: solid;
+	background: #FBD0FC;
+}
+footer div{
+	display: flex;
+	margin: 20px 460px 0px 460px;
+}
+footer img{
+	width: 35px;
+	height: 35px
+}
+footer p{
+	margin: 1px 5px;
+}
+@media only screen and (min-width:320px) and (max-width:480px){
+
+main{
+	width: 400%;
+}	
+
+.navbar{
+	width: 420%;
+}
+footer{
+	width: 420%;
+}
+
+}
+@media only screen and (min-width:768px) and (max-width:960px){
+
+main{
+	width: 370%;
+    margin: 0px 65px
+}
+.navbar{
+	width: 500%;
+}
+footer{
+	width: 500%;
+}
+
+}
+
+
+
+
+
+
+
+
+
